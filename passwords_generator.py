@@ -1,3 +1,5 @@
+#Само задание:
+#https://www.codewars.com/kata/5263c6999e0f40dee200059d/train/python
 slovar={
     0: [0,8],
     1: [1,2,4],
